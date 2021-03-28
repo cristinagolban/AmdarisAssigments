@@ -1,0 +1,13 @@
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\bin\Debug\netcoreapp3.1\Assigment06.exe
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\bin\Debug\netcoreapp3.1\Assigment06.deps.json
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\bin\Debug\netcoreapp3.1\Assigment06.runtimeconfig.json
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\bin\Debug\netcoreapp3.1\Assigment06.runtimeconfig.dev.json
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\bin\Debug\netcoreapp3.1\Assigment06.dll
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\bin\Debug\netcoreapp3.1\Assigment06.pdb
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\obj\Debug\netcoreapp3.1\Assigment06.csprojAssemblyReference.cache
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\obj\Debug\netcoreapp3.1\Assigment06.AssemblyInfoInputs.cache
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\obj\Debug\netcoreapp3.1\Assigment06.AssemblyInfo.cs
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\obj\Debug\netcoreapp3.1\Assigment06.csproj.CoreCompileInputs.cache
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\obj\Debug\netcoreapp3.1\Assigment06.dll
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\obj\Debug\netcoreapp3.1\Assigment06.pdb
+C:\Users\cristina.golban\source\repos\Assigment06\Assigment06\obj\Debug\netcoreapp3.1\Assigment06.genruntimeconfig.cache
