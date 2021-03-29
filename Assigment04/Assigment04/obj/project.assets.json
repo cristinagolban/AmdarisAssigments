@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cristina.golban\\source\\repos\\Assigment04\\Assigment04\\Assigment04.csproj",
+      "projectUniqueName": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\Assigment04\\Assigment04\\Assigment04.csproj",
       "projectName": "Assigment04",
-      "projectPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigment04\\Assigment04\\Assigment04.csproj",
+      "projectPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\Assigment04\\Assigment04\\Assigment04.csproj",
       "packagesPath": "C:\\Users\\cristina.golban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigment04\\Assigment04\\obj\\",
+      "outputPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\Assigment04\\Assigment04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cristina.golban\\AppData\\Roaming\\NuGet\\NuGet.Config",

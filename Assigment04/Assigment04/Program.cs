@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Assigment04
 {
@@ -37,7 +38,7 @@ namespace Assigment04
             Console.WriteLine("unboxing :" + o);
 
 
-            /*
+            
             //Culoare e un atribut static deci il apelez cu numele clasei
               Console.WriteLine("Masina a : "+a.Type +" "+ a.Age);
               Console.WriteLine("Bicicleta p1 :  "+ p.Roti + " " + p.Age+" "+ Bicicleta.Culoare);
@@ -53,7 +54,7 @@ namespace Assigment04
               p3.ChangeRoti();
               Console.WriteLine("Bicicleta p2 :  " + p2.Roti + " " + p2.Age + " " + Bicicleta.Culoare);
               Console.WriteLine("Bicicleta p3 :  " + p3.Roti + " " + p3.Age + " " + Bicicleta.Culoare);
-          */
+          
 
             Console.WriteLine("Masina a: " + a.Type + " " + a.Age + " " + a.km);
             Console.WriteLine("Masina a2: " + a2.Type + " " + a2.Age + " " + a2.km);
@@ -82,6 +83,24 @@ namespace Assigment04
             a.km = a.km + 22;
             //Acesta e noul obiect creat in aceasta functie 
             Console.WriteLine("Masina din functie : " + a.Type + " " + a.Age + " " + a.km);
+
+
+
+
+            // nu am scris informatii despre constructorul static pentru ca l-am folosit in asigmentul urmator
+
+            // Executia principala incepe aici
+            Console.WriteLine("Tthread starts here.");
+
+            // This method takes 4 seconds to finish.  
+            Program.Pause();
+
+            // This method doesn't take anytime at all.  
+            Program.DoSomething();
+
+            // Execution ends here  
+            Console.WriteLine("Thread ends here.");
+            Console.ReadKey();
         }
 
         static void BuyNew(out Masina a)
@@ -93,6 +112,32 @@ namespace Assigment04
         }
 
 
+        public static void Pause()
+        {
+            Console.WriteLine("I did something!!");
+            Thread.Sleep(1000);
+            Console.WriteLine("Tired! Need a 3 sec nap.");
+            Thread.Sleep(1000);
+            Console.WriteLine("1....");
+            Thread.Sleep(1000);
+            Console.WriteLine("2....");
+            Thread.Sleep(1000);
+            Console.WriteLine("3....");
+            Console.WriteLine("I'm not tired anymore.");
+        }
+        public static void DoSomething()
+        {
+            Console.WriteLine("I'm counting to 10");
+            for (int i = 1; i <= 10; i++)
+                Console.Write($"{i} ");
+            Console.WriteLine();
+            Console.WriteLine("Done!.");
+        }
+
 
     }
+
+    
+
+
 }
