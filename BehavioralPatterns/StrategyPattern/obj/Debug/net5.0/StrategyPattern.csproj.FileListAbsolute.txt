@@ -1,0 +1,15 @@
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.exe
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.deps.json
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.json
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.dev.json
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.dll
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\bin\Debug\net5.0\ref\StrategyPattern.dll
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.pdb
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.dll
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\obj\Debug\net5.0\ref\StrategyPattern.dll
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.pdb
+C:\Users\stefan.oproiu\source\repos\demos\BehavioralPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.genruntimeconfig.cache

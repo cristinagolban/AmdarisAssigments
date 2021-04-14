@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DfTvOGBSAH1Bdi7LCrNSKpgzetXPQ6BHobedqOjMzecxdtHuGdLxlAOdYa8HzXwlB9BMdsjeeHr8J6QTSYej+g==",
+  "dgSpecHash": "QVLjnH4vLpMHVWA3oTIHdN8p85l+v2tUYwxDik2TYFqf4X2pRyDeXXtCsCD7L9qG38Wfd1xaN1VJEyuBMTUTnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cristina.golban\\source\\repos\\LINQAssigment\\LINQAssigment\\LINQAssigment.csproj",
+  "projectFilePath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\LINQAssigment\\LINQAssigment\\LINQAssigment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cristina.golban\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\cristina.golban\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
