@@ -18,8 +18,8 @@ namespace VisitorPattern
             {
                 Square s => s switch
                 {
-                    _ when capacity - s.Length < 0 =>  throw new InvalidOperationException($"Current capacity {capacity} but tried to draw square of length {s.Length}") ,
-                     _ => $"Drawing square with length {s.Length} on paper"
+                    _ when capacity - s.Length < 0 => throw new InvalidOperationException($"Current capacity {capacity} but tried to draw square of length {s.Length}"),
+                    _ => $"Drawing square with length {s.Length} on paper"
 
                 },
 
@@ -42,7 +42,7 @@ namespace VisitorPattern
 
             Console.WriteLine(result);
 
-            float res = shape switch
+            capacity = shape switch
             {
                 Square s => capacity -= s.Length,
 

@@ -19,7 +19,7 @@ namespace VisitorPattern
             };
 
             //IVisitor visitor = new BlackboardDrawerVisitor();
-            IVisitor visitor = new PaperDrawerVisitor(40);
+            IVisitor visitor = new PaperDrawerVisitor(20);
 
             //AreaCalculatorVisitor visitor = new AreaCalculatorVisitor();
 
