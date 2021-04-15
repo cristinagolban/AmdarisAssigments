@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FgfPLNjfVGjvf7Vt+dcrUKSLXP3HsnqYp2p2RS1e4QGxGPerPIyDiUf/tbTg4STF3nzVjCD77moAwY94w099jQ==",
+  "dgSpecHash": "AieBuTaQtbltMbc3AJofahE7LsNgxi8rnpJMCAOBJDYxgR/L1xllIVoQKAxjdukoDx6VBIi6dbMrAJR1AOBE6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
+  "projectFilePath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

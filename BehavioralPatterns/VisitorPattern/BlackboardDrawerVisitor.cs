@@ -6,24 +6,21 @@ namespace VisitorPattern
     {
         public void Visit(Shape shape)
         {
-            if (shape is Square)
-            {
-                Square square = (Square)shape;
 
-                Console.WriteLine($"Drawing square with length {square.Length} on blackboard");
-            }
-            else if (shape is Circle)
+            string result = shape switch
             {
-                Circle circle = (Circle)shape;
+                Square s => $"Drawing square with length {s.Length} on blackboard",
 
-                Console.WriteLine($"Drawing circle with radius {circle.Radius} on blackboard");
-            }
-            else if (shape is Rectangle)
-            {
-                Rectangle rectangle = (Rectangle)shape;
+                Circle c => $"Drawing circle with radius {c.Radius} on blackboard",
 
-                Console.WriteLine($"Drawing rectangle with radius {rectangle.Length} on blackboard");
-            }
+                Rectangle r => $"Drawing rectangle with radius {r.Length} on blackboard",
+
+                _ => "Unknow shape"
+            };
+
+            Console.WriteLine(result);
+            
+            
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MRewjWy+XmsA0OE4kO2S2luljy5xNlHv78YuhhOFHRt2lC+hu8hmliQT1v2u+FwFbzVn8c/VuJUa2gQdiu25tw==",
+  "dgSpecHash": "69+IXjh0ASpD8Voi9EvrCWYdlUAsn5+CAHxZGyerO/jZo2T0YeF6a5pfELLZCFdEv513v5E+DG56z8mVmBQ+4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
+  "projectFilePath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

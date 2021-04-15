@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj": {}
+    "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj": {
+    "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj",
+        "projectUniqueName": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj",
         "projectName": "StrategyPattern",
-        "projectPath": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj",
+        "projectPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj",
         "packagesPath": "C:\\Users\\cristina.golban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\StrategyPattern\\obj\\",
+        "outputPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cristina.golban\\AppData\\Roaming\\NuGet\\NuGet.Config",

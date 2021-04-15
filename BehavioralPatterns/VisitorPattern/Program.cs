@@ -19,12 +19,12 @@ namespace VisitorPattern
             };
 
             //IVisitor visitor = new BlackboardDrawerVisitor();
-            //IVisitor visitor = new PaperDrawerVisitor(40);
+            IVisitor visitor = new PaperDrawerVisitor(40);
 
-            AreaCalculatorVisitor visitor = new AreaCalculatorVisitor();
+            //AreaCalculatorVisitor visitor = new AreaCalculatorVisitor();
 
-            var engineer = new Engineer();
-            visitor.AddSubscriber(engineer);
+           // var engineer = new Engineer();
+           // visitor.AddSubscriber(engineer);
 
             try
             {

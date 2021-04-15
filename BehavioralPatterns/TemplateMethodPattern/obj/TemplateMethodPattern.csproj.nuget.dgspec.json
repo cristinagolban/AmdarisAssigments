@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj": {}
+    "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj": {
+    "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
+        "projectUniqueName": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
         "projectName": "TemplateMethodPattern",
-        "projectPath": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
+        "projectPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
         "packagesPath": "C:\\Users\\cristina.golban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\TemplateMethodPattern\\obj\\",
+        "outputPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\TemplateMethodPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cristina.golban\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
+      "projectUniqueName": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
       "projectName": "VisitorPattern",
-      "projectPath": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
+      "projectPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
       "packagesPath": "C:\\Users\\cristina.golban\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cristina.golban\\source\\repos\\BehavioralPatterns\\VisitorPattern\\obj\\",
+      "outputPath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\BehavioralPatterns\\VisitorPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cristina.golban\\AppData\\Roaming\\NuGet\\NuGet.Config",

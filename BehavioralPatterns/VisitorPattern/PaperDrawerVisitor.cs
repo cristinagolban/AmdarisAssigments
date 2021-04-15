@@ -13,43 +13,49 @@ namespace VisitorPattern
 
         public void Visit(Shape shape)
         {
-            if(shape is Square)
-            {
-                Square square = (Square)shape;
-                if (capacity - square.Length < 0)
-                {
-                    ShowError();
-                    throw new InvalidOperationException($"Current capacity {capacity} but tried to draw square of length {square.Length}");
-                }
-                Console.WriteLine($"Drawing square with length {square.Length} on paper");
-                capacity -= square.Length;
-            }
-            else if (shape is Circle)
-            {
-                Circle circle = (Circle)shape;
 
-                int diameter = 2 * circle.Radius;
-                if (capacity - diameter < 0)
-                {
-                    ShowError();
-                    throw new InvalidOperationException($"Current capacity {capacity} but tried to draw circle of diameter {diameter}");
-                }
-                Console.WriteLine($"Drawing circle with radius {circle.Radius} on paper");
-                capacity -= diameter;
-            }
-            else if (shape is Rectangle)
+            string result = shape switch
             {
-                Rectangle rectangle = (Rectangle)shape;
-
-                int diameter = rectangle.Length;
-                if (capacity - diameter < 0)
+                Square s => s switch
                 {
-                    ShowError();
-                    throw new InvalidOperationException($"Current capacity {capacity} but tried to draw rectangle of diameter {diameter}");
-                }
-                Console.WriteLine($"Drawing rectanlge with radius {rectangle.Length} on paper");
-                capacity -= diameter;
-            }
+                    _ when capacity - s.Length < 0 =>  throw new InvalidOperationException($"Current capacity {capacity} but tried to draw square of length {s.Length}") ,
+                     _ => $"Drawing square with length {s.Length} on paper"
+
+                },
+
+                Circle c => c switch
+                {
+                    _ when capacity - 2*c.Radius < 0 => throw new InvalidOperationException($"Current capacity {capacity} but tried to draw circle of diameter {c.Radius}"),
+                    _ => $"Drawing cirlce with length {c.Radius} on paper"
+
+                },
+
+                Rectangle r => r switch
+                {
+                    _ when capacity - r.Length < 0 => throw new InvalidOperationException($"Current capacity {capacity} but tried to draw circle of diameter {r.Length}"),
+                    _ => $"Drawing rectangle with length {r.Length} on paper"
+
+                },
+
+                _ => "Unknow shape"
+            };
+
+            Console.WriteLine(result);
+
+            float res = shape switch
+            {
+                Square s => capacity -= s.Length,
+
+                Circle c => capacity -= 2 * c.Radius,
+
+                Rectangle r => capacity -= r.Length,
+
+                _ => 0
+            };
+          
+
+
+           
         }
 
         private static void ShowError()
