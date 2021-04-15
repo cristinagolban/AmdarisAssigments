@@ -10,33 +10,38 @@ namespace VisitorPattern
     {
         public void Notify(Tuple<Shape, float> item)
         {
-            if(item.Item2 <=0)
+
+
+            var (shape, area) = item;
+
+            if (area <= 0)
             {
                 Console.WriteLine("Imposible area");
-                return;
             }
 
-            var shape = item.Item1;
-            if(shape is Circle)
-            {
-                Circle circle = (Circle)shape;
-                if (circle.Radius > 30.0f)
-                {
-                    Console.WriteLine($"Area of circle with radius {circle.Radius} is too big");
-                    return;
-                }
-            }
-            else if (shape is Square)
-            {
-                Square square = (Square)shape;
-                if (square.Length > 20.0f)
-                {
-                    Console.WriteLine($"Area of square with length {square.Length} is too big");
-                    return;
-                }
-            }
 
-            Console.WriteLine("Seems right");
+            string result = shape switch
+            {
+                Square s => s switch
+                {
+                    _ when s.Length > 20.0f => $"Area of square with length {s.Length} is too big",
+                    _ => "Seemns right"
+                },
+
+                Circle c => c switch
+                {
+                    _ when c.Radius > 30.0f => $"Area of cirucs with length {c.Radius} is too big",
+                    _ => "Seemns right"
+
+                },
+
+                _ => "Seemns right"
+
+
+            };
+
+        Console.WriteLine(result);
+
         }
     }
 }

@@ -6,6 +6,7 @@ namespace VisitorPattern
     {
         public void Visit(Shape shape)
         {
+            Console.WriteLine(shape);
 
             string result = shape switch
             {
