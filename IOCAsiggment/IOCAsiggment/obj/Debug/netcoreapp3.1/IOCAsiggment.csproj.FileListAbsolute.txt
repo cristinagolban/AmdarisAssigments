@@ -1,0 +1,13 @@
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAsiggment.exe
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAsiggment.deps.json
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAsiggment.runtimeconfig.json
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAsiggment.runtimeconfig.dev.json
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAsiggment.dll
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAsiggment.pdb
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAsiggment.csprojAssemblyReference.cache
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAsiggment.AssemblyInfoInputs.cache
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAsiggment.AssemblyInfo.cs
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAsiggment.csproj.CoreCompileInputs.cache
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAsiggment.dll
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAsiggment.pdb
+C:\Users\cristina.golban\source\repos\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAsiggment.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCAssigment", "IOCAsiggment\IOCAssigment.csproj", "{4872FA78-1CE7-4F52-978F-5FDAE7D60158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLocator", "ServiceLocator\ServiceLocator.csproj", "{DB9A4B83-23F5-4620-8AC3-7F249559C006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4872FA78-1CE7-4F52-978F-5FDAE7D60158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4872FA78-1CE7-4F52-978F-5FDAE7D60158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4872FA78-1CE7-4F52-978F-5FDAE7D60158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4872FA78-1CE7-4F52-978F-5FDAE7D60158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9A4B83-23F5-4620-8AC3-7F249559C006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9A4B83-23F5-4620-8AC3-7F249559C006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9A4B83-23F5-4620-8AC3-7F249559C006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9A4B83-23F5-4620-8AC3-7F249559C006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04980EAD-4B7D-4E27-97B6-085C129669A6}
+	EndGlobalSection
+EndGlobal
