@@ -4,11 +4,11 @@ using System.Text;
 
 namespace ServiceLocator
 {
-    public class ServiceB : IServiceB
+    public class ProductService : IProductService
     {
         public void Execute()
         {
-            Console.WriteLine("B service called");
+            Console.WriteLine("Product Service service called") ;
         }
     }
 }

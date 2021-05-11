@@ -1,0 +1,13 @@
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAssigment.exe
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAssigment.deps.json
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAssigment.runtimeconfig.json
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAssigment.runtimeconfig.dev.json
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAssigment.dll
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\bin\Debug\netcoreapp3.1\IOCAssigment.pdb
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAssigment.csprojAssemblyReference.cache
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAssigment.AssemblyInfoInputs.cache
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAssigment.AssemblyInfo.cs
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAssigment.csproj.CoreCompileInputs.cache
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAssigment.dll
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAssigment.pdb
+C:\Users\cristina.golban\source\repos\Assigments\IOCAsiggment\IOCAsiggment\obj\Debug\netcoreapp3.1\IOCAssigment.genruntimeconfig.cache

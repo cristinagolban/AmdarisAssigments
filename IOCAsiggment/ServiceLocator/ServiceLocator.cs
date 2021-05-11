@@ -1,32 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Ninject;
+
 
 
 namespace ServiceLocator
 {
-    public class ServiceLocator : IService
+    public class ServiceLocator 
     {
-        public Dictionary<object, object> servicecontainer = null;
-        public ServiceLocator()
+        private static readonly IKernel Kernel = new StandardKernel();
+
+        public static void RegisterAll()
         {
-            servicecontainer = new Dictionary<object, object>();
-            servicecontainer.Add(typeof(IServiceA), new ServiceA());
-            servicecontainer.Add(typeof(IServiceB), new ServiceB());
-        }
-        public T GetService<T>()
-        {
-             
+            Kernel.Bind<IProductService>().To<ProductService>();
+            Kernel.Bind<IComandService>().To<ComandService>();
 
 
-            try
-            {
-                return (T)servicecontainer[typeof(T)];
-            }
-            catch (Exception ex)
-            {
-                throw new NotImplementedException("Service not available.");
-            }
         }
+
+        public static T Resolve<T>()
+        {
+            return Kernel.Get<T>();
+        }
+       
     }
 }

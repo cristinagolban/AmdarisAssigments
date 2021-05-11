@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ServiceLocator
 {
-    public interface IServiceA
+    public interface IProductService
     {
         void Execute();
     }

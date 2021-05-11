@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ServiceLocator
 {
-    public interface IServiceB
+    public interface IComandService
     {
         void Execute();
     }

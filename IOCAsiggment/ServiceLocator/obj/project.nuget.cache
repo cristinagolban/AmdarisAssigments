@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "D+1892JOXcq+/Ukh8j2ENd6R0Gee0eIUOvqzXhhgMclHdWftLJN4JEjRDfbNoum7WYaWOUn4JtZzEzOim6ZQ8Q==",
+  "dgSpecHash": "a80nQz2eGpD6XEFBnV4BppgeBFBtIZAigu5ORhS4aVUGjwmp16chDGRSKwAMrfhCWLxMu/FmwQjfdN1OuxgplQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cristina.golban\\source\\repos\\IOCAsiggment\\ServiceLocator\\ServiceLocator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\cristina.golban\\source\\repos\\Assigments\\IOCAsiggment\\ServiceLocator\\ServiceLocator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\ninject\\3.3.4\\ninject.3.3.4.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\cristina.golban\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
